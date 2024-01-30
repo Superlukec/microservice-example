@@ -1,0 +1,49 @@
+# Dependency directories
+node_modules/
+
+# Output of build tools
+dist/
+build/
+out/
+lib/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled binary files
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+
+# Configuration files
+*.conf
+
+# Coverage output
+coverage/
+
+# Temporary files
+*.tmp
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn errors log
+yarn-error.log
+
+# Jest coverage
+coverage/
+
+# Ignore any local eslint cache
+.eslintcache
